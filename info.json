@@ -1,0 +1,8 @@
+{
+  "server_name": "projeto-sd",
+  "server_endpoint": "https://sd-jenilsonramos-20212.herokuapp.com/",
+  "descricao": "Projeto desenvolvido na disciplina de Sistemas Distribuídos",
+  "versao": "1.0.0",
+  "status": "online",
+  "tipo_de_eleicao_ativa": "valentao"
+}
